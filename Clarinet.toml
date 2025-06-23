@@ -1,7 +1,7 @@
 [project]
 name = "GitGig"
-authors = []
-description = ""
+authors = ["teefeh-07"]
+description = "A decentralized freelance platform on Stacks blockchain enabling secure gig management, escrow payments, and reputation tracking"
 telemetry = true
 requirements = []
 cache_dir = "/home/runner/Teefeh/GitGig/./.requirements"
